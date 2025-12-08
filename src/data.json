@@ -1,0 +1,115 @@
+{
+  "name": "Евгений",
+  "title": "Backend Developer",
+  "description": "Разрабатываю CRM системы, занимаюсь автоматизацией и аналитикой. Опытный в DevOps и администрировании серверов. Готов к новым вызовам.",
+  "about": [
+    {
+      "id": 1,
+      "icon": "fa-cogs",
+      "color": "purple",
+      "title": "CRM системы",
+      "description": "Разработка и внедрение систем управления взаимоотношениями с клиентами для корпоративного сектора"
+    },
+    {
+      "id": 2,
+      "icon": "fa-robot",
+      "color": "blue",
+      "title": "Автоматизация",
+      "description": "Создание автоматизированных решений для оптимизации бизнес-процессов"
+    },
+    {
+      "id": 3,
+      "icon": "fa-chart-line",
+      "color": "green",
+      "title": "Аналитика",
+      "description": "Разработка аналитических инструментов и дашбордов для анализа данных"
+    }
+  ],
+  "skills": {
+    "backend": [
+      {
+        "name": "NestJs",
+        "percentage": 95
+      },
+      {
+        "name": "SQL",
+        "percentage": 90
+      },
+      {
+        "name": "DevOps",
+        "percentage": 85
+      },
+      {
+        "name": "Python",
+        "percentage": 80
+      }
+    ],
+    "expertise": [
+      "PostgreSQL",
+      "Docker",
+      "Linux",
+      "REST API",
+      "RabbitMQ",
+      "CI/CD",
+      "FastAPI",
+      "TypeScript",
+      "Git",
+      "Server Admin",
+      "Redis",
+      "Microservices"
+    ]
+  },
+  "experience": [
+    {
+      "id": 1,
+      "position": "Back End Developer",
+      "company": "Kainar-Media",
+      "location": "Талдыкорган, Казахстан",
+      "startDate": "Sept 2024",
+      "endDate": "Present",
+      "color": "purple",
+      "description": "Разработка и поддержка backend приложений, внедрение CRM решений для клиентов, оптимизация процессов автоматизации."
+    },
+    {
+      "id": 2,
+      "position": "Системный администратор",
+      "company": "Automated Communication Solutions",
+      "location": "Талдыкорган, Казахстан",
+      "startDate": "Dec 2022",
+      "endDate": "July 2024",
+      "color": "blue",
+      "description": "Администрирование серверов, настройка инфраструктуры, обеспечение безопасности и стабильности систем, DevOps задачи."
+    }
+  ],
+  "contacts": [
+    {
+      "id": 1,
+      "icon": "fa-envelope",
+      "label": "Email",
+      "value": "jenzw54@gmail.com",
+      "href": "mailto:jenzw54@gmail.com"
+    },
+    {
+      "id": 2,
+      "icon": "fab fa-github",
+      "label": "GitHub",
+      "value": "LiC3MeR",
+      "href": "https://github.com/LiC3MeR"
+    },
+    {
+      "id": 3,
+      "icon": "fab fa-linkedin",
+      "label": "LinkedIn",
+      "value": "root-gnu",
+      "href": "https://www.linkedin.com/in/root-gnu/"
+    },
+    {
+      "id": 4,
+      "icon": "fab fa-telegram",
+      "label": "Telegram",
+      "value": "@root_gnu",
+      "href": "https://t.me/root_gnu"
+    }
+  ],
+  "photoUrl": "https://avatars.githubusercontent.com/u/93517938?v=4"
+}
